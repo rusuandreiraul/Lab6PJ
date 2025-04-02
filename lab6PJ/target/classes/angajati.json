@@ -1,0 +1,39 @@
+[
+  {
+    "nume": "Andrei",
+    "post": "Manager",
+    "data_angajarii":"2000-09-10",
+    "salariul": 5600
+  },
+  {
+    "nume": "Dodo",
+    "post": "subaltern",
+    "data_angajarii":"2010-11-09",
+    "salariul": 2400
+  },
+  {
+    "nume": "Tania",
+    "post": "Sef de schimb",
+    "data_angajarii":"2024-08-10",
+    "salariul": 2600
+  },
+  {
+    "nume": "Alex",
+    "post": "sef",
+    "data_angajarii":"2024-06-23",
+    "salariul": 2900
+  },
+  {
+    "nume": "ionut",
+    "post": "muncitor",
+    "data_angajarii":"2022-04-03",
+    "salariul": 2100
+  },
+  {
+    "nume": "Ion",
+    "post": "muncitor",
+    "data_angajarii":"2024-07-03",
+    "salariul": 2700
+  }
+
+]
